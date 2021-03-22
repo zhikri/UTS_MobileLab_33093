@@ -1,0 +1,10 @@
+<resources>
+    <string name="kelas">Kelas : EL</string>
+    <string name="name">Username</string>
+    <string name="katasandi">Password</string>
+    <string name="app_name">UTS_33693</string>
+    <string name="nama">Nama : Muhammad Zhikri</string>
+    <string name="nim">NIM : 00000033693</string>
+    <string name="loginText">LOGIN</string>
+    <string name="title">MUSIC PLAYER</string>
+</resources>
